@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EteledAngyglitch.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EteledGlitch_hey0000" x="0" y="0" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0001" x="1317" y="0" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0002" x="2634" y="0" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0003" x="3951" y="0" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0004" x="5268" y="0" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0005" x="6585" y="0" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0006" x="0" y="934" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0007" x="1317" y="934" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0008" x="1317" y="934" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_hey0009" x="1317" y="934" width="1317" height="934"/>
+	<SubTexture name="EteledGlitch_idle0000" x="2634" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0001" x="3950" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0002" x="5266" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0003" x="6582" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0004" x="0" y="1868" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0005" x="1316" y="1868" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0006" x="2632" y="1868" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0007" x="3948" y="1868" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0008" x="5264" y="1868" width="1316" height="934"/>
+	<SubTexture name="EteledGlitch_idle0009" x="6580" y="1868" width="1316" height="934"/>
+</TextureAtlas>

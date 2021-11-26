@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deletemenace.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="delete_down0000" x="0" y="0" width="1056" height="1113"/>
+	<SubTexture name="delete_down0001" x="1056" y="0" width="1056" height="1113"/>
+	<SubTexture name="delete_down0002" x="2112" y="0" width="1056" height="1113"/>
+	<SubTexture name="delete_down0003" x="3168" y="0" width="1056" height="1113"/>
+	<SubTexture name="delete_down0004" x="4224" y="0" width="1056" height="1113"/>
+	<SubTexture name="delete_hey0000" x="5280" y="0" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0001" x="6336" y="0" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0002" x="0" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0003" x="1056" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0004" x="2112" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0005" x="3168" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0006" x="4224" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0007" x="5280" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0008" x="6336" y="1114" width="1056" height="1114"/>
+	<SubTexture name="delete_hey0009" x="0" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0000" x="1056" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0001" x="2112" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0002" x="3168" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0003" x="4224" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0004" x="5280" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0005" x="6336" y="2228" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0006" x="0" y="3342" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0007" x="1056" y="3342" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0008" x="2112" y="3342" width="1056" height="1114"/>
+	<SubTexture name="delete_idle0009" x="3168" y="3342" width="1056" height="1114"/>
+	<SubTexture name="delete_left0000" x="4224" y="3342" width="1056" height="1113"/>
+	<SubTexture name="delete_left0001" x="5280" y="3342" width="1056" height="1113"/>
+	<SubTexture name="delete_left0002" x="6336" y="3342" width="1056" height="1113"/>
+	<SubTexture name="delete_left0003" x="0" y="4456" width="1056" height="1113"/>
+	<SubTexture name="delete_left0004" x="1056" y="4456" width="1056" height="1113"/>
+	<SubTexture name="delete_right0000" x="2112" y="4456" width="1056" height="1114"/>
+	<SubTexture name="delete_right0001" x="3168" y="4456" width="1056" height="1114"/>
+	<SubTexture name="delete_right0002" x="4224" y="4456" width="1056" height="1114"/>
+	<SubTexture name="delete_right0003" x="5280" y="4456" width="1056" height="1114"/>
+	<SubTexture name="delete_right0004" x="6336" y="4456" width="1056" height="1114"/>
+	<SubTexture name="delete_up0000" x="0" y="5570" width="1056" height="1113"/>
+	<SubTexture name="delete_up0001" x="1056" y="5570" width="1056" height="1113"/>
+	<SubTexture name="delete_up0002" x="2112" y="5570" width="1056" height="1113"/>
+	<SubTexture name="delete_up0003" x="3168" y="5570" width="1056" height="1113"/>
+	<SubTexture name="delete_up0004" x="4224" y="5570" width="1056" height="1113"/>
+</TextureAtlas>

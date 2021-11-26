@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				525,
+				105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EteledAngy_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				195
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "EteledAngy_hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-47
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "EteledAngy_attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				520,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EteledAngy_right"
+		},
+		{
+			"offsets": [
+				520,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EteledAngy_left"
+		},
+		{
+			"offsets": [
+				484,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EteledAngy_up"
+		},
+		{
+			"offsets": [
+				525,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EteledAngy_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EteledAngy",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		62,
+		175
+	],
+	"camera_position": [
+		-430,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

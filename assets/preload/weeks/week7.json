@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Discharge",
+			"bf-evil",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the end.",
+	"weekName": "the end.",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week6",
+	"startUnlocked": true
+}

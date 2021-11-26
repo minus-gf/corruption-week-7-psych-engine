@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				520,
+				105
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EteledGlitch_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				400,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "EteledGlitch_hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EteledAngyglitch",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		62,
+		175
+	],
+	"camera_position": [
+		-160,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

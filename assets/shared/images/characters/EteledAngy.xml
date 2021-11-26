@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EteledAngy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EteledAngy_attack0000" x="0" y="0" width="1316" height="934" frameX="-93" frameY="0" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_attack0001" x="1316" y="0" width="1222" height="785" frameX="0" frameY="-55" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_attack0002" x="2538" y="0" width="1201" height="786" frameX="0" frameY="-51" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_attack0003" x="3739" y="0" width="1201" height="785" frameX="0" frameY="-52" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_attack0004" x="4940" y="0" width="1201" height="785" frameX="0" frameY="-55" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_attack0005" x="6141" y="0" width="628" height="689" frameX="0" frameY="-115" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_attack0006" x="6769" y="0" width="628" height="689" frameX="0" frameY="-115" frameWidth="1409" frameHeight="934"/>
+	<SubTexture name="EteledAngy_down0000" x="0" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_down0001" x="1316" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_down0002" x="2632" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_down0003" x="3948" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_down0004" x="5264" y="934" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_hey0000" x="6580" y="934" width="1466" height="1031"/>
+	<SubTexture name="EteledAngy_hey0001" x="0" y="1965" width="1466" height="1031"/>
+	<SubTexture name="EteledAngy_hey0002" x="1466" y="1965" width="1466" height="1031"/>
+	<SubTexture name="EteledAngy_hey0003" x="2932" y="1965" width="1466" height="1031"/>
+	<SubTexture name="EteledAngy_hey0004" x="4398" y="1965" width="1466" height="1031"/>
+	<SubTexture name="EteledAngy_idle0000" x="5864" y="1965" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0001" x="0" y="2996" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0002" x="1315" y="2996" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0003" x="2630" y="2996" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0004" x="3945" y="2996" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0005" x="5260" y="2996" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0006" x="6575" y="2996" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0007" x="0" y="3931" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0008" x="1315" y="3931" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_idle0009" x="2630" y="3931" width="1315" height="935"/>
+	<SubTexture name="EteledAngy_left0000" x="3945" y="3931" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_left0001" x="5261" y="3931" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_left0002" x="6577" y="3931" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_left0003" x="0" y="4866" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_left0004" x="1316" y="4866" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_right0000" x="2632" y="4866" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_right0001" x="3948" y="4866" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_right0002" x="5264" y="4866" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_right0003" x="6580" y="4866" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_right0004" x="0" y="5800" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_up0000" x="1316" y="5800" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_up0001" x="2632" y="5800" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_up0002" x="3948" y="5800" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_up0003" x="5264" y="5800" width="1316" height="934"/>
+	<SubTexture name="EteledAngy_up0004" x="6580" y="5800" width="1316" height="934"/>
+</TextureAtlas>

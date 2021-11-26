@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BackgroundFirst.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle_back0000" x="0" y="0" width="2762" height="1719" frameX="0" frameY="0" frameWidth="2762" frameHeight="1720"/>
+	<SubTexture name="Idle_back0001" x="0" y="1719" width="2760" height="1720" frameX="0" frameY="0" frameWidth="2762" frameHeight="1720"/>
+</TextureAtlas>

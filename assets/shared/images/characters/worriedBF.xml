@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="worriedBF.png"><SubTexture name="worriedBF idle0000" x="0" y="0" width="370" height="398" frameX="0" frameY="0" frameWidth="370" frameHeight="398" />
+<SubTexture name="idle0001" x="370" y="0" width="371" height="396" frameX="0" frameY="0" frameWidth="371" frameHeight="396" />
+<SubTexture name="idle0002" x="392" y="1238" width="369" height="399" frameX="0" frameY="0" frameWidth="369" frameHeight="399" />
+<SubTexture name="idle0003" x="761" y="1238" width="369" height="399" frameX="0" frameY="0" frameWidth="369" frameHeight="399" />
+<SubTexture name="idle0004" x="0" y="1671" width="368" height="397" frameX="0" frameY="0" frameWidth="368" frameHeight="397" />
+<SubTexture name="singDOWN0000" x="741" y="0" width="355" height="367" frameX="0" frameY="0" frameWidth="355" frameHeight="367" />
+<SubTexture name="singDOWN0001" x="0" y="398" width="361" height="367" frameX="0" frameY="0" frameWidth="361" frameHeight="367" />
+<SubTexture name="singLEFT0000" x="361" y="398" width="342" height="408" frameX="0" frameY="0" frameWidth="342" frameHeight="408" />
+<SubTexture name="singLEFT0001" x="703" y="398" width="347" height="410" frameX="0" frameY="0" frameWidth="347" frameHeight="410" />
+<SubTexture name="singRIGHT0000" x="0" y="808" width="411" height="412" frameX="0" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="singRIGHT0001" x="411" y="808" width="412" height="409" frameX="0" frameY="0" frameWidth="412" frameHeight="409" />
+<SubTexture name="singUP0000" x="823" y="808" width="391" height="430" frameX="0" frameY="0" frameWidth="391" frameHeight="430" />
+<SubTexture name="singUP0001" x="0" y="1238" width="392" height="433" frameX="0" frameY="0" frameWidth="392" frameHeight="433" />
+</TextureAtlas>
